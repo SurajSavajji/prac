@@ -1,0 +1,2 @@
+Using git fetch it actually will not directly make changes into working directory instead it will first commit that in local repo and after git merge
+we can able to see it in working directory.
